@@ -6,4 +6,34 @@
 body {
   background: #eaeaea;
   font-family: 'Roboto', sans-serif;
+  padding: 50px;
+  position: relative;
+}
+main{
+  background-color: #fff;
+  width: 80%;
+  height: 80%;
+  padding: 60px;
+  border-radius: 10px;
+}
+h1 {
+  font-size: 28px;
+}
+h2 {
+  font-size: 20px;
+}
+h1,
+h2 {
+  text-align: center;
+  padding: 10px;
+  margin-top: 10px;
+}
+li,
+p {
+  font-size: 16px;
+  padding: 10px;
+}
+figcaption,
+footer {
+  font-size: 10px;
 }
